@@ -21,16 +21,13 @@
     margin-left: 20px;
 }
 
-.main {
-    position: relative;
-}
 
 .smiley {
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: lighter;
     font-size: 50px;
     position: absolute;
-    top: 27vh;
+    top: 47vh;
 }
 
 .bluebox {
@@ -38,7 +35,7 @@
     width: 70%;
     height: 30vh;
     position: absolute;
-    top: 45vh;
+    top: 65vh;
     left: 0;
     z-index: 0;
 }
@@ -47,7 +44,7 @@
     width: 50%;
     height: 60vh;
     position: absolute;
-    top: 10px;
+    top: 20vh;
     right: 0;
     z-index: 10;
 }
